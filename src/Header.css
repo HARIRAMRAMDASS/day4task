@@ -1,0 +1,23 @@
+*{
+
+    text-align: left;
+    margin: 0;
+    padding: 0;
+
+
+}
+Header{
+    align-items: left;
+
+    margin: 0;
+    color: rgb(255, 119, 0);
+    text-align: left;
+    background-color: aquamarine;
+}
+red{
+    align-items: right;
+    align-content: right;
+    margin: 0;
+    color: rgb(255, 119, 0);
+    background-color: aquamarine;
+}

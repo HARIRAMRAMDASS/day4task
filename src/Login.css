@@ -1,0 +1,33 @@
+*{
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+body{
+    align-items: center;
+    align-content: center;
+}
+.inputs{
+    align-items: center;
+    align-content: center;
+}
+.App{
+    
+    background-color: #61dafb;
+    border: #61dafb;
+    width: fit-content;
+    flex-wrap: wrap;
+}
+#root{
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+
+.login{
+    text-align: center;
+    align-items: center;
+    padding-top: center;
+    padding-bottom: center;
+    padding: center;
+}
